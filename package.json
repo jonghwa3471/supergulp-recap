@@ -14,14 +14,17 @@
     "@babel/preset-env": "^7.23.9",
     "@babel/register": "^7.23.7",
     "@prettier/plugin-pug": "^2.5.2",
+    "babelify": "^10.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
+    "gulp-bro": "^2.0.0",
     "gulp-csso": "^4.0.1",
     "gulp-image": "^6.2.1",
     "gulp-pug": "^5.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-webserver": "^0.9.1",
-    "sass": "^1.70.0"
+    "sass": "^1.70.0",
+    "uglifyify": "^5.0.2"
   },
   "dependencies": {
     "del": "^4.1.1"
